@@ -2,6 +2,8 @@ de:
   pageflow:
     panorama:
       page_type_name: "360° Ansicht"
+      page_type_description: "Einbindung interaktiver Panoramen von palmsfilm.com oder Panogate"
+      page_type_category_name: "Interaktiv"
       validation:
         missing_tiles_directory: "Tiles-Verzeichnis nicht gefunden."
         missing_index_document: "Index-Dokument nicht gefunden."
